@@ -23,7 +23,7 @@ This Python module provides a Baroque Chess agent capable of playing a game of B
 
    ```bash
    git clone https://github.com/sri4447/AI_PROJECT/edit/main/README.MD
-   cd baroque-chess-agent
+   cd file1
 
 ## Usage
 
