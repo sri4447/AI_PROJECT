@@ -36,7 +36,9 @@ This Python module provides a Baroque Chess agent capable of playing a game of B
 ## Features
 
 Minimax algorithm with alpha-beta pruning.
+
 Basic evaluation function for piece values.
+
 Interactive gameplay against the Baroque Chess agent.
 
 ## Discription
